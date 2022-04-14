@@ -20,7 +20,7 @@
 I am a Mobile Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building Mobile applications.
-- :zap: In my free time, I love to work on blockchain solution.
+- :zap: In my free time, I love to learn about blockchain solutions.
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jigar-fumakiya-3080b8b7/)
 
 
