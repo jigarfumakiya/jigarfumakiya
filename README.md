@@ -2,6 +2,8 @@
 
 **Mobile engineer · 7+ years** · 5 in Flutter, 3 in native Android, plus iOS with Swift and SwiftUI
 
+<img src="https://komarev.com/ghpvc/?username=jigarfumakiya&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" alt="Profile views"/>
+
 - 💬 **Ask me about:** Flutter, Jetpack Compose, SwiftUI, app performance and localization
 - 💼 **Currently:** Software Engineer at **[Lantern](https://github.com/getlantern)**, working on the mobile app used by **2M+ people**
 - 🤖 **In my free time:** I build MCP servers and AI agent tools. My side project is **[Localship](https://github.com/jigarfumakiya/localship)**, open-source localization that runs inside your coding agent
