@@ -1,49 +1,44 @@
-### Hi there 👋
-![](https://komarev.com/ghpvc/?username=jigarfumakiya&style=flat-square)
+<h1 align="center">Hi, I'm Jigar 👋</h1>
+<h3 align="center">Mobile engineer from India 🇮🇳 · Building apps for millions of users, and sharing what I learn on YouTube</h3>
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+<p align="center">
+  <a href="https://www.youtube.com/@CodeStreamX"><img src="https://img.shields.io/badge/YouTube-CodeStreamX-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
+  <a href="https://x.com/FumakiyaJigar"><img src="https://img.shields.io/badge/X-@FumakiyaJigar-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
+  <a href="https://www.linkedin.com/in/jigar-fumakiya-3080b8b7/"><img src="https://img.shields.io/badge/LinkedIn-Jigar_Fumakiya-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+</p>
 
-<div id="badges">
-  <a href="https://www.linkedin.com/in/jigar-fumakiya-3080b8b7/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://twitter.com/FumakiyaJigar">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
-<!-- <img src="https://komarev.com/ghpvc/?username=jigarfumakiya&style=flat-square&color=blue" alt=""/> -->
+---
 
-</div>
+### 👨‍💻 About me
 
+- 💼 Software Engineer at **[Lantern](https://github.com/getlantern)**, where I work on the mobile app used by **2M+ people**
+- 📱 I build native Android and iOS apps (Kotlin + Jetpack Compose, Swift + SwiftUI) and have shipped Flutter apps since 2019
+- 🤖 These days I'm building developer tools for AI coding agents
+- 📺 I teach mobile development on YouTube at **[CodeStreamX](https://www.youtube.com/@CodeStreamX)**
 
-### :man_technologist: About Me :
+### 🌍 Currently building: [Localship](https://github.com/jigarfumakiya/localship)
 
-I am a Mobile Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+Open-source localization that runs inside your coding agent. Ask your agent to translate your app, and Localship gives it the context it needs and **checks every translation before anything is written**: placeholders, plurals, escaping and markup.
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building Mobile applications.
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jigar-fumakiya-3080b8b7/)
+- Supports Android `strings.xml`, iOS String Catalogs and gettext
+- Works with any AI model: Claude, GPT, Gemini, OpenRouter or a local model through Ollama
+- Comes as an MCP server, agent skills or a CLI. No account, no server, no monthly bill
 
+```sh
+claude mcp add localship -- npx -y localship mcp
+```
 
-### :hammer_and_wrench: Languages and Tools :
-<div>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
- <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="Kotlin" alt="Kotlin" width="40" height="40"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-plain-wordmark.svg" title="Android Studio" alt="AS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-plain.svg" title="Xcode" alt="Xcode" width="40" height="40"/>&nbsp;
-</div>
+### 📺 On YouTube: [CodeStreamX](https://www.youtube.com/@CodeStreamX)
 
-### :fire: My Stats :
+Videos about building real mobile apps, from Flutter animations to native Android and iOS. The code from every video is in **[codestreamx-example](https://github.com/jigarfumakiya/codestreamx-example)**.
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jigarfumakiya&theme=dracula)
+### 🛠️ What I work with
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jigarfumakiya&theme=dracula) [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jigarfumakiya&theme=highcontrast&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+**Mobile:** Kotlin · Jetpack Compose · Swift · SwiftUI · Flutter / Dart
+**Backend and tools:** Supabase · Firebase · TypeScript · MCP / AI agents
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jigarfumakiya&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+---
 
-
-
+<p align="center">
+  Subscribe on <a href="https://www.youtube.com/@CodeStreamX">YouTube</a> · Follow along on <a href="https://x.com/FumakiyaJigar">X</a>
+</p>
