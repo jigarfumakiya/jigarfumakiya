@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3DDC84&center=true&vCenter=true&width=640&lines=Building+apps+for+2M%2B+users+at+Lantern;Native+Android+%2B+iOS+%C2%B7+Kotlin+%26+Swift;Building+Localship+for+AI+coding+agents;Teaching+mobile+dev+on+YouTube+%C2%B7+CodeStreamX" alt="Typing intro"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3DDC84&center=true&vCenter=true&width=640&lines=Software+Engineer+at+Lantern+%C2%B7+2M%2B+users;7%2B+years+%C2%B7+Flutter%2C+Android+%26+iOS;Side+project%3A+Localship+for+AI+coding+agents;Teaching+mobile+dev+on+YouTube+%C2%B7+CodeStreamX" alt="Typing intro"/>
   </a>
 </p>
 
@@ -18,14 +18,15 @@
 
 ## 👨‍💻 About me
 
-- 💼 Software Engineer at **[Lantern](https://github.com/getlantern)**, where I work on the mobile app used by **2M+ people**
-- 📱 I build native Android and iOS apps (Kotlin + Jetpack Compose, Swift + SwiftUI) and have shipped Flutter apps since 2019
-- 🤖 These days I'm building developer tools for AI coding agents
-- 📺 I teach mobile development on YouTube at **[CodeStreamX](https://www.youtube.com/@CodeStreamX)**
+I'm a mobile engineer with **7+ years of experience**: 5 years in Flutter and 3 years in native Android, plus iOS with Swift and SwiftUI.
 
-## 🌍 Currently building: [Localship](https://github.com/jigarfumakiya/localship)
+- 💼 **Currently:** Software Engineer at **[Lantern](https://github.com/getlantern)**, working on the mobile app used by **2M+ people**
+- 🛠️ **Side project:** building **[Localship](https://github.com/jigarfumakiya/localship)**, an open-source localization tool for AI coding agents
+- 📺 **YouTube:** I teach mobile development at **[CodeStreamX](https://www.youtube.com/@CodeStreamX)**
 
-Open-source localization that runs inside your coding agent. Ask your agent to translate your app, and Localship gives it the context it needs and **checks every translation before anything is written**: placeholders, plurals, escaping and markup.
+## 🌍 Side project: [Localship](https://github.com/jigarfumakiya/localship)
+
+Outside my day job, I'm building open-source localization that runs inside your coding agent. Ask your agent to translate your app, and Localship gives it the context it needs and **checks every translation before anything is written**: placeholders, plurals, escaping and markup.
 
 ## 📺 On YouTube: [CodeStreamX](https://www.youtube.com/@CodeStreamX)
 
