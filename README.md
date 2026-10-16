@@ -25,11 +25,11 @@
 #### 📺 YouTube
 
 - I teach mobile development at **[CodeStreamX](https://www.youtube.com/@CodeStreamX)**
-- Short, practical videos on Flutter and Jetpack Compose: Dart async, crash handling, Compose modifiers, accessible layouts and more
-- New videos show up here automatically:
+- Short, practical videos that each solve one real problem in under a minute
+- **Flutter:** Dart async and the event loop, catching every crash, layouts that survive large fonts
+- **Jetpack Compose:** modifiers, previews and the everyday APIs you use in real apps
 
-<!-- BEGIN YOUTUBE-CARDS -->
-<!-- END YOUTUBE-CARDS -->
+<a href="https://www.youtube.com/@CodeStreamX?sub_confirmation=1"><img src="https://img.shields.io/badge/Subscribe-CodeStreamX-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Subscribe on YouTube"/></a>
 
 #### 🧰 Tech stack
 
