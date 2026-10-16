@@ -2,23 +2,11 @@
 
 **Mobile engineer · 7+ years** · 5 in Flutter, 3 in native Android, plus iOS with Swift and SwiftUI
 
-#### 💼 Currently
-
-Software Engineer at **[Lantern](https://github.com/getlantern)**, working on the mobile app used by **2M+ people**.
-
-#### 🛠️ Side project
-
-**[Localship](https://github.com/jigarfumakiya/localship)**: open-source localization that runs inside your coding agent. It translates your app with any AI model and checks every translation before anything is written.
-
-<a href="https://github.com/jigarfumakiya/localship"><img src="https://github-readme-stats.vercel.app/api/pin/?username=jigarfumakiya&repo=localship&theme=transparent&hide_border=true" alt="Localship"/></a>
-
-#### 📺 YouTube
-
-I teach mobile development at **[CodeStreamX](https://www.youtube.com/@CodeStreamX)**: short videos on Flutter and Jetpack Compose. The code from every video is in [codestreamx-example](https://github.com/jigarfumakiya/codestreamx-example).
-
-#### 💬 Ask me about
-
-Flutter, Jetpack Compose, SwiftUI, app performance and localization. Open to collaborations, open-source contributions and speaking.
+- 💬 **Ask me about:** Flutter, Jetpack Compose, SwiftUI, app performance and localization
+- 💼 **Currently:** Software Engineer at **[Lantern](https://github.com/getlantern)**, working on the mobile app used by **2M+ people**
+- 🤖 **In my free time:** I build MCP servers and AI agent tools. My side project is **[Localship](https://github.com/jigarfumakiya/localship)**, open-source localization that runs inside your coding agent
+- 📺 **YouTube:** I teach mobile development at **[CodeStreamX](https://www.youtube.com/@CodeStreamX)**, with short videos on Flutter and Jetpack Compose
+- 🤝 **Open to:** collaborations, open-source contributions and speaking
 
 #### 🧰 Tech stack
 
