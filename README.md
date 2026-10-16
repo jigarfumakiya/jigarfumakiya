@@ -5,10 +5,31 @@
 <img src="https://komarev.com/ghpvc/?username=jigarfumakiya&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" alt="Profile views"/>
 
 - 💬 **Ask me about:** Flutter, Jetpack Compose, SwiftUI, app performance and localization
-- 💼 **Currently:** Software Engineer at **[Lantern](https://github.com/getlantern)**, working on the mobile app used by **2M+ people**
-- 🤖 **In my free time:** I build MCP servers and AI agent tools. My side project is **[Localship](https://github.com/jigarfumakiya/localship)**, open-source localization that runs inside your coding agent
-- 📺 **YouTube:** I teach mobile development at **[CodeStreamX](https://www.youtube.com/@CodeStreamX)**, with short videos on Flutter and Jetpack Compose
+- 📍 **Based in:** India
 - 🤝 **Open to:** collaborations, open-source contributions and speaking
+
+#### 💼 Work
+
+- Software Engineer at **[Lantern](https://github.com/getlantern)**, working on the mobile app used by **2M+ people**
+- **7+ years** building mobile apps: 5 in Flutter, 3 in native Android, plus iOS with Swift and SwiftUI
+- I've shipped on Android, iOS and cross-platform, from UI and animation to performance, in-app purchases and backend integration
+
+#### 🤖 In my free time
+
+- I build **MCP servers, agent skills and AI developer tools** that make coding agents more useful for app developers
+- My side project is **[Localship](https://github.com/jigarfumakiya/localship)**: open-source localization that runs inside your coding agent
+  - Translates Android `strings.xml`, iOS String Catalogs and gettext with any AI model: Claude, GPT, Gemini or a local model through Ollama
+  - Checks placeholders, plurals, escaping and markup in code before any translation is written
+  - Works as an MCP server, agent skills or a CLI. No account, no server, no monthly bill
+
+#### 📺 YouTube
+
+- I teach mobile development at **[CodeStreamX](https://www.youtube.com/@CodeStreamX)**
+- Short, practical videos on Flutter and Jetpack Compose: Dart async, crash handling, Compose modifiers, accessible layouts and more
+- New videos show up here automatically:
+
+<!-- BEGIN YOUTUBE-CARDS -->
+<!-- END YOUTUBE-CARDS -->
 
 #### 🧰 Tech stack
 
