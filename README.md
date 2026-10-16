@@ -16,11 +16,8 @@
 
 #### 🤖 In my free time
 
-- I build **MCP servers, agent skills and AI developer tools** that make coding agents more useful for app developers
-- My side project is **[Localship](https://github.com/jigarfumakiya/localship)**: open-source localization that runs inside your coding agent
-  - Translates Android `strings.xml`, iOS String Catalogs and gettext with any AI model: Claude, GPT, Gemini or a local model through Ollama
-  - Checks placeholders, plurals, escaping and markup in code before any translation is written
-  - Works as an MCP server, agent skills or a CLI. No account, no server, no monthly bill
+- I'm building **StillMoney**, a budgeting app for Android and iOS that uses **on-device AI**
+- I build **MCP servers, agent skills and AI developer tools**, like **[Localship](https://github.com/jigarfumakiya/localship)**, open-source localization that runs inside your coding agent
 
 #### 📺 YouTube
 
