@@ -12,7 +12,7 @@
 
 - Software Engineer at **[Lantern](https://github.com/getlantern)**, working on the mobile app used by **2M+ people**
 - **7+ years** building mobile apps across Flutter, Android and iOS
-- I've shipped on Android, iOS and cross-platform, from UI and animation to performance, in-app purchases and backend integration
+- Shipped apps on **Android, iOS, macOS, Windows and Linux**: platform and method channels, native integrations, FFmpeg, UI animation and in-app purchases
 
 #### 🤖 In my free time
 
