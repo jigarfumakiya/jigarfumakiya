@@ -1,6 +1,6 @@
 ### Jigar Fumakiya
 
-**Mobile engineer · 7+ years** · 5 in Flutter, 3 in native Android, plus iOS with Swift and SwiftUI
+**Mobile engineer · 7+ years of experience across Flutter, Android and iOS**
 
 <img src="https://komarev.com/ghpvc/?username=jigarfumakiya&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" alt="Profile views"/>
 
@@ -11,7 +11,7 @@
 #### 💼 Work
 
 - Software Engineer at **[Lantern](https://github.com/getlantern)**, working on the mobile app used by **2M+ people**
-- **7+ years** building mobile apps: 5 in Flutter, 3 in native Android, plus iOS with Swift and SwiftUI
+- **7+ years** building mobile apps across Flutter, Android and iOS
 - I've shipped on Android, iOS and cross-platform, from UI and animation to performance, in-app purchases and backend integration
 
 #### 🤖 In my free time
