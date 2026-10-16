@@ -4,7 +4,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=jigarfumakiya&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" alt="Profile views"/>
 
-- 💬 **Ask me about:** Flutter, Jetpack Compose, SwiftUI, app performance and localization
+- 💬 **Ask me about:** Flutter, Android, iOS, Jetpack Compose, SwiftUI, app performance, MCP and AI workflows
 - 📍 **Based in:** India
 - 🤝 **Open to:** collaborations, open-source contributions and speaking
 
