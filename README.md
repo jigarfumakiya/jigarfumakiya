@@ -2,15 +2,25 @@
 
 **Mobile engineer · 7+ years** · 5 in Flutter, 3 in native Android, plus iOS with Swift and SwiftUI
 
-I'm a Software Engineer at **[Lantern](https://github.com/getlantern)**, working on a mobile app used by **2M+ people**.
-On the side, I'm building **[Localship](https://github.com/jigarfumakiya/localship)**, open-source localization for AI coding agents,
-and I teach mobile development on YouTube at **[CodeStreamX](https://www.youtube.com/@CodeStreamX)**.
+#### 💼 Currently
 
-💬 **Ask me about** Flutter, Jetpack Compose, SwiftUI, app performance and localization
-🤝 **Open to** collaborations, open-source contributions and speaking
+Software Engineer at **[Lantern](https://github.com/getlantern)**, working on the mobile app used by **2M+ people**.
+
+#### 🛠️ Side project
+
+**[Localship](https://github.com/jigarfumakiya/localship)**: open-source localization that runs inside your coding agent. It translates your app with any AI model and checks every translation before anything is written.
 
 <a href="https://github.com/jigarfumakiya/localship"><img src="https://github-readme-stats.vercel.app/api/pin/?username=jigarfumakiya&repo=localship&theme=transparent&hide_border=true" alt="Localship"/></a>
-<a href="https://github.com/jigarfumakiya/codestreamx-example"><img src="https://github-readme-stats.vercel.app/api/pin/?username=jigarfumakiya&repo=codestreamx-example&theme=transparent&hide_border=true" alt="CodeStreamX examples"/></a>
+
+#### 📺 YouTube
+
+I teach mobile development at **[CodeStreamX](https://www.youtube.com/@CodeStreamX)**: short videos on Flutter and Jetpack Compose. The code from every video is in [codestreamx-example](https://github.com/jigarfumakiya/codestreamx-example).
+
+#### 💬 Ask me about
+
+Flutter, Jetpack Compose, SwiftUI, app performance and localization. Open to collaborations, open-source contributions and speaking.
+
+#### 🧰 Tech stack
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" title="Kotlin" alt="Kotlin" width="32" height="32"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetpackcompose/jetpackcompose-original.svg" title="Jetpack Compose" alt="Jetpack Compose" width="32" height="32"/>&nbsp;
@@ -25,6 +35,8 @@ and I teach mobile development on YouTube at **[CodeStreamX](https://www.youtube
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="32" height="32"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="32" height="32"/>
 
+#### 📊 GitHub stats
+
 <img src="https://github-readme-stats.vercel.app/api?username=jigarfumakiya&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&hide_border=true" alt="GitHub stats" height="160"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jigarfumakiya&layout=compact&langs_count=8&theme=transparent&hide_border=true" alt="Top languages" height="160"/>
 
@@ -32,5 +44,7 @@ and I teach mobile development on YouTube at **[CodeStreamX](https://www.youtube
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jigarfumakiya/jigarfumakiya/output/github-snake-dark.svg"/>
   <img src="https://raw.githubusercontent.com/jigarfumakiya/jigarfumakiya/output/github-snake.svg" alt="Contribution snake"/>
 </picture>
+
+#### 🔗 Connect
 
 [YouTube](https://www.youtube.com/@CodeStreamX) · [X](https://x.com/FumakiyaJigar) · [LinkedIn](https://www.linkedin.com/in/jigar-fumakiya-3080b8b7/)
